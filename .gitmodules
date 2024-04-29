@@ -1,0 +1,6 @@
+[submodule "ReverseImageSearchDemo"]
+	path = ReverseImageSearchDemo
+	url = https://github.com/nilsrobinet/ReverseImageSearchDemo
+[submodule "RAG-Demo"]
+	path = RAG-Demo
+	url = https://github.com/smilchsack/RAG-Demo
